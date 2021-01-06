@@ -104,10 +104,16 @@ html {
 
 .row #calculate:hover {
     border:none;
+    outline:none;
 }
 .row #delete {
     color: #FFF;
     background-color: #e05046;
+}
+
+.row #delete:hover {
+     border:none;
+    outline:none;
 }
 
 #division,
