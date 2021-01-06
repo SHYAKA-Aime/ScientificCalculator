@@ -26,14 +26,13 @@ html {
 
 .output {
     width: 100%;
-    color:#fff;
-    ;
+    
 }
 
 .operation {
     width: 600px;
     height: 70px;
-    color: #878787;
+    color:rgba(255,255,255,0.8);
     font-size: 1.9em;
     font-weight: bold;
     position: relative;
