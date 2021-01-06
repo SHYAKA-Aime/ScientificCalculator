@@ -99,6 +99,7 @@ html {
     background-color: #46e0bc;
     width: 121px;
     border-radius: 50px;
+    border:none;
 }
 
 .row #delete {
